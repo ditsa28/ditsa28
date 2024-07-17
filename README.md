@@ -1,3 +1,4 @@
+![logo](https://github.com/ditsa28/ditsa28/blob/main/Blue%20and%20White%20Gradient%20Geometric%20Profile%20Name%20Marketing%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Ditsa Dutta</h1>
 <h3 align="center">Interested about data analytics</h3>
 
